@@ -1,0 +1,29 @@
+_repo: Why-Authors-Go-Wrong-and-Other-Explanations_64385
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Overton, Grant M. (Grant Martin)
+    alias: Overton, Grant Martin
+    birthdate: 1887
+    deathdate: 1930
+    gutenberg_agent_id: '32469'
+    url: http://www.gutenberg.org/2009/agents/32469
+description: ''
+gutenberg_issued: '2021-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64385'
+  lccn: '19015925'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authorship'
+- !lcc 'PN'
+- GITenberg
+tableOfContents: Why authors go wrong -- A barbaric yawp -- In the critical court
+  -- Book "reviewing" -- Literary editors, by one of them -- What every publisher
+  knows -- The secret of the best seller -- Writing a novel.
+title: Why Authors Go Wrong, and Other Explanations
+url: http://www.gutenberg.org/ebooks/64385
